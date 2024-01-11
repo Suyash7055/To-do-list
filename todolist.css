@@ -1,0 +1,57 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:  monospace,'Roboto Mono';
+	
+}
+body{
+     font-family: 'Roboto Slab', serif;
+     background-color:aqua;	
+}
+.container{
+	width:360px;
+	padding:33px;
+	text-align:center;
+	background-color:#AFEEEE;
+	margin-left:33%;
+	margin-top:5px;
+	border-radius:10px;
+}
+input{
+	     height:30px;
+         width:270px;
+         padding:8px;
+         border:2px solid #5F9EA0;
+         outline:none;
+	     border-radius:6px;
+		 
+}
+#submit{
+	margin-top:5px;
+	width:100px;
+	height:44px;
+	background-color:#008080;
+	color:white;
+	border-radius:10px;
+	font-size:25px;
+	border:none;
+	outline:none;
+	cursor:pointer;
+}
+.text ul{
+position:relative;
+background-color:#48D1CC;
+color:gray;
+font-size:19px;
+text-align:left;
+padding:7px;
+margin-top:10px;	
+	
+}
+.text ul i{
+	position:absolute;
+	right:10px;
+	cursor:pointer;
+
+	
+}
